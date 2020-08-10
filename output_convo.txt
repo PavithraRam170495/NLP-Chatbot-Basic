@@ -1,0 +1,208 @@
+HUMAN ++++ wrong answer
+BOT ++++ <unk> / <unk>
+HUMAN ++++ wrong
+BOT ++++ <unk>
+HUMAN ++++ incorrect
+BOT ++++ <unk>
+=============================================
+HUMAN ++++ incorrect answer
+BOT ++++ <unk> / <unk>
+=============================================
+HUMAN ++++ this is an incorrect answer
+BOT ++++ <unk>
+=============================================
+HUMAN ++++ incorrect answer
+BOT ++++ Apologies for the error! Please give the correct response in the following format - question :- response
+HUMAN ++++ president of usa :- donald trump
+BOT ++++ - <unk>
+HUMAN ++++ president of usa
+BOT ++++ / /
+=============================================
+HUMAN ++++ incorrect answer
+BOT ++++ Apologies for the error! Please give the correct response in the following format - question :- response
+HUMAN ++++ president of usa :- obama
+BOT ++++ 
+HUMAN ++++ president of usa
+BOT ++++ / /
+=============================================
+HUMAN ++++ incorrect answer
+BOT ++++ Apologies for the error! Please give the correct response in the following format - question :- response
+HUMAN ++++ president of usa :- obama
+BOT ++++ 
+HUMAN ++++ president of usa
+BOT ++++ / /
+=============================================
+HUMAN ++++ president of usa :-  obama
+BOT ++++   obama
+HUMAN ++++ president of usa
+BOT ++++   obama
+HUMAN ++++ incorrect answer
+BOT ++++ Apologies for the error! Please give the correct response in the following format - question :- response
+HUMAN ++++ my place :- cork
+BOT ++++  cork
+HUMAN ++++ my place
+BOT ++++  cork
+=============================================
+HUMAN ++++ my name is pavithra
+BOT ++++ <unk> - <unk>
+=============================================
+HUMAN ++++ hello
+BOT ++++ <unk>
+=============================================
+HUMAN ++++ my name is pavithra
+BOT ++++ Hello, pavithra How are you today ?
+HUMAN ++++ president of usa
+BOT ++++ / /
+HUMAN ++++ incorrect answer
+BOT ++++ Apologies for the error! Please give the correct response in the following format - question :- response
+HUMAN ++++ president of usa :- trump
+BOT ++++  trump
+HUMAN ++++ president of usa
+BOT ++++  trump
+=============================================
+=============================================
+HUMAN ++++ hello
+BOT ++++ <unk>
+HUMAN ++++ how are you?
+BOT ++++ i am great !
+HUMAN ++++ my name is pavithra
+BOT ++++ Hello, pavithra How are you today ?
+HUMAN ++++ president of usa?
+BOT ++++ 
+HUMAN ++++ incorrect answer
+HUMAN ++++ hello
+BOT ++++ hi
+HUMAN ++++ how are you?
+BOT ++++ I am 1 week old
+HUMAN ++++ my name is pavithra
+BOT ++++ Hello, pavithra How are you today ?
+HUMAN ++++ president of usa
+BOT ++++ / /
+HUMAN ++++ incorrect answer
+BOT ++++ Apologies for the error! Please give the correct response preceeded by ':::'
+HUMAN ++++ ::: Donald Trump
+HUMAN ++++ hello
+BOT ++++ Hello
+HUMAN ++++ how are you?
+BOT ++++ great :)
+HUMAN ++++ how old are you?
+BOT ++++ I am 1 week old
+HUMAN ++++ where are we located?
+BOT ++++ <unk> - <unk>
+HUMAN ++++ incorrect answer
+BOT ++++ Apologies for the error! Please give the correct response preceeded by ':-'
+HUMAN ++++ :-cork
+BOT ++++ <unk> - <unk>
+=============================================
+HUMAN ++++ hello
+BOT ++++ Hey there
+HUMAN ++++ how are you?
+BOT ++++ great :)
+HUMAN ++++ how old are you?
+BOT ++++ I am 1 week old
+HUMAN ++++ i am pavithra
+BOT ++++ - <unk>
+HUMAN ++++ my name is pavithra
+BOT ++++ Hello, pavithra How are you today ?
+HUMAN ++++ president of usa
+BOT ++++ / /
+HUMAN ++++ incorrect answer
+BOT ++++ Apologies for the error! Please give the correct response preceeded by ':-'
+HUMAN ++++ :- trump
+BOT ++++  trump
+HUMAN ++++ president of usa
+BOT ++++ / /
+=============================================
+HUMAN ++++ hello
+BOT ++++ Hey there
+HUMAN ++++ president of usa
+BOT ++++ / /
+HUMAN ++++ incorrect answer
+BOT ++++ Apologies for the error! Please give the correct response preceeded by ':-'
+HUMAN ++++ :- trump
+BOT ++++  trump
+=============================================
+HUMAN ++++ hello
+BOT ++++ Hey there
+HUMAN ++++ president of usa
+BOT ++++ / /
+HUMAN ++++ incorrect answer
+BOT ++++ Apologies for the error! Please give the correct response preceeded by ':-'
+HUMAN ++++ :- trump
+BOT ++++ <unk> - <unk>
+=============================================
+=============================================
+HUMAN ++++ hello
+BOT ++++ Hey there
+HUMAN ++++ president of usa
+BOT ++++ / /
+HUMAN ++++ wrong
+BOT ++++ <unk>
+HUMAN ++++ president of usa
+BOT ++++ / /
+HUMAN ++++ wrong answer
+BOT ++++ Apologies for the error! Please give the correct response preceeded by ':-'
+HUMAN ++++ :- trump
+BOT ++++ <unk> - <unk>
+HUMAN ++++ president of usa
+BOT ++++  trump
+HUMAN ++++ my name is pavithra
+BOT ++++ Hello, pavithra How are you today ?
+HUMAN ++++ weather today
+BOT ++++ <unk> .
+HUMAN ++++ wrong answer
+BOT ++++ Apologies for the error! Please give the correct response preceeded by ':-'
+HUMAN ++++ :- rainy
+BOT ++++ <unk> - <unk>
+HUMAN ++++ weather today
+BOT ++++  rainy
+=============================================
+HUMAN ++++ hello
+BOT ++++ hi
+HUMAN ++++ how are glacier caves formed?
+BOT ++++ <unk> - <unk> , <unk>
+HUMAN ++++ bye
+BOT ++++ <unk>
+HUMAN ++++ hello
+BOT ++++ Hey there
+HUMAN ++++ hi
+BOT ++++ Hello
+HUMAN ++++ how are you?
+BOT ++++ great :)
+HUMAN ++++ how old are you?
+BOT ++++ I am 1 week old
+HUMAN ++++ i need some help
+BOT ++++ Please use www.google.com
+=============================================
+HUMAN ++++ hello
+BOT ++++ hi
+HUMAN ++++ my name is pavithra
+BOT ++++ Hello, pavithra How are you today ?
+HUMAN ++++ what is my name?
+BOT ++++ Your name is pavithra
+HUMAN ++++ my name is kavana
+BOT ++++ Hello, kavana How are you today ?
+HUMAN ++++ what is my name?
+BOT ++++ Your name is pavithra
+HUMAN ++++ what is your name?
+BOT ++++ My name is Jack and I'm a chatbot .
+=============================================
+HUMAN ++++ hello
+BOT ++++ Hey there
+HUMAN ++++ my name is pavithra
+BOT ++++ Hello, pavithra How are you today ?
+HUMAN ++++ what is your name?
+BOT ++++ My name is Jack and I'm a chatbot .
+HUMAN ++++ how old are you?
+BOT ++++ I am 1 week old
+HUMAN ++++ who is the president of usa?
+BOT ++++ <unk>
+HUMAN ++++ wrong answer
+BOT ++++ Apologies for the error! Please give the correct response preceeded by ':-'
+HUMAN ++++ :-Donald Trump
+BOT ++++ <unk> - <unk>
+HUMAN ++++ Who is the president of usa?
+BOT ++++ Donald Trump
+HUMAN ++++ quit
+BOT ++++ Bye for now. See you soon :) 
+=============================================
